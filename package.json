@@ -1,0 +1,27 @@
+{
+  "name": "zooc-eslint-config",
+  "version": "1.0.0",
+  "description": "一款个人个性定制化的eslint规范",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrXiaoChuan/eslint-config.git"
+  },
+  "author": "zo.oc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrXiaoChuan/eslint-config/issues"
+  },
+  "homepage": "https://github.com/MrXiaoChuan/eslint-config#readme",
+  "dependencies": {
+    "globals": "^15.3.0",
+    "@eslint/js": "^9.3.0",
+    "eslint-plugin-vue": "^9.26.0"
+  },
+  "peerDependencies": {
+    "eslint": "^9.3.0"
+  }
+}
